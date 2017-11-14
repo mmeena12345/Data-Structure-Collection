@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="dsa.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Algo.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21210" topLine="52" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="42" />
+			<Collapse line="79" />
+			<Collapse line="109" />
+			<Collapse line="789" />
+			<Collapse line="851" />
+			<Collapse line="1002" />
+		</Folding>
+	</File>
+	<File name="Array.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1224" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="19" />
+		</Folding>
+	</File>
+	<File name="Graph.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="41624" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Linked_list.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16211" topLine="400" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="15" />
+			<Collapse line="25" />
+			<Collapse line="38" />
+			<Collapse line="60" />
+			<Collapse line="78" />
+			<Collapse line="91" />
+			<Collapse line="108" />
+			<Collapse line="128" />
+			<Collapse line="162" />
+			<Collapse line="187" />
+			<Collapse line="241" />
+			<Collapse line="330" />
+			<Collapse line="337" />
+			<Collapse line="347" />
+			<Collapse line="361" />
+			<Collapse line="382" />
+			<Collapse line="401" />
+			<Collapse line="414" />
+		</Folding>
+	</File>
+	<File name="Stack.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4004" topLine="127" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+		</Folding>
+	</File>
+	<File name="Trees.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40234" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Queue.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14581" topLine="468" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="16" />
+			<Collapse line="32" />
+			<Collapse line="41" />
+			<Collapse line="56" />
+			<Collapse line="115" />
+			<Collapse line="233" />
+			<Collapse line="241" />
+			<Collapse line="249" />
+			<Collapse line="273" />
+			<Collapse line="297" />
+			<Collapse line="307" />
+		</Folding>
+	</File>
+	<File name="Algo.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="64" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
